@@ -3,3 +3,4 @@ FILE 2 INSTRUCTIONS:
 - In the following lines, write a short sentence or two on your favorite food and how you discovered it
 
 Start here!
+My favorite food is anything which is free
