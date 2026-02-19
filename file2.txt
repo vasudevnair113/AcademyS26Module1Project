@@ -1,5 +1,2 @@
-FILE 2 INSTRUCTIONS:
-- This file isn't a Python file, so don't worry about syntax or formatting or anything
-- In the following lines, write a short sentence or two on your favorite food and how you discovered it
-
-Start here!
+aim is amazing and i love hamiz but i love sarvesh even more
+late valentines day
