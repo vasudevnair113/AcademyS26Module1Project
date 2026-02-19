@@ -5,4 +5,9 @@ FILE 1 INSTRUCTIONS:
 - Hint: prit isn't a valid Python command, but print is
 '''
 
-prit("I love AIS!!")
+# prit("I love AIS!!") --> old 
+print("I love AIS!!") # new
+
+
+
+
