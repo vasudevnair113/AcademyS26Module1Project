@@ -29,7 +29,7 @@ while "_" in b:
     
     print("Computer is moving...")
     b[e[hash(str(b)) % len(e)]] = "O"
-    p()
+    p()-
     
     if any(all(b[i]=="O" for i in s) for s in w):
         print("--- Computer Wins! ---"); break
